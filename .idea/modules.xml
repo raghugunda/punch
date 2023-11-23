@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/todo-master.iml" filepath="$PROJECT_DIR$/.idea/todo-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/todo-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/todo-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/punch.iml" filepath="$PROJECT_DIR$/.idea/modules/punch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/punch.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/punch.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/punch.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/punch.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/punch.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/punch.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/punch.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/punch.app.unitTest.iml" />
     </modules>
   </component>
 </project>
